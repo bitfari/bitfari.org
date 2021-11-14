@@ -21,7 +21,7 @@ Bitfari was originally called Tellfari. The first prototype was shown at the Uni
 
 benefits of providing personalized service in Spanish for Latino immigrants. Bitfari was later prototyped using blockchain technology and will be launched as an open-source layer to enhance online and offline communications now that scaling solutions make it feasible.
 
-# 3. Network Elements: Screens, Alter Egos, Channels, Social Oracles, Style Sets, Variables and Disclosure Matrix
+# 3. Network Elements: Screens, Alter Egos, Channels, Social Oracles, Style Sets, Variables and a Disclosure Matrix
 
 Alter Ego is a private login where the account identifier, a public key assigned to a publisher, maps to a set containing a pseudonym, an avatar, a color, a hashed password and a place of origin. For example:
 
