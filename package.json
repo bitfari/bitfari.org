@@ -1,0 +1,20 @@
+{
+  "name": "bitfariorg",
+  "version": "1.0.0",
+  "description": "bitfari foundation website",
+  "main": "/",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bitfari.org"
+  },
+  "keywords": [
+    "website",
+    "bitfari",
+    "foundation"
+  ],
+  "author": "bitfari engineering",
+  "license": "MIT"
+}
