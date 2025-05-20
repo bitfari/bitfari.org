@@ -34,7 +34,7 @@
 .vc_gem_portfolio_slider,
 .vc_gem_portfolio {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/portfolio-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/portfolio-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_product_grid,
 .vc_gem_product_slider,
@@ -42,57 +42,57 @@
 .vc_gem_product_grid_carousel,
 .vc_gem_product_grid_categories*/ {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/products-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/products-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_testimonials > * {
 	display: none;
 }
 .vc_gem_testimonials {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/testimonials-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/testimonials-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_countdown > * {
 	display: none;
 }
 .vc_gem_countdown {
 	height: 200px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/countdown-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/countdown-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_news > * {
 	display: none;
 }
 .vc_gem_news {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/blog-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/blog-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_news_grid {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/blog-extended-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/blog-extended-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_featured_posts_slider {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/featured-posts-slider-dummy.png') no-repeat 50% 40%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/featured-posts-slider-dummy.png') no-repeat 50% 40%;
 }
 .vc_gem_gallery > * {
 	display: none;
 }
 .vc_gem_gallery {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/gallery-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/gallery-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_diagram > * {
 	display: none;
 }
 .vc_gem_diagram {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/diagram-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/diagram-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_clients > * {
 	display: none;
 }
 .vc_gem_clients {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/clients-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/clients-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_counter > * {
 	display: none;
@@ -108,14 +108,14 @@
 .vc_gem_counter > .counter-shortcode-dummy {
 	display: block;
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/counter-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/counter-dummy.png') no-repeat 50% 50%;
 }
 .vc_gem_instagram_gallery > * {
 	display: none;
 }
 .vc_gem_instagram_gallery {
 	height: 300px;
-	background: #f0f4f7 url('/wp-content/themes/thegem/images/admin-images/instagram-dummy.png') no-repeat 50% 50%;
+	background: #f0f4f7 url('https://bitfari.org/wp-content/themes/thegem/images/admin-images/instagram-dummy.png') no-repeat 50% 50%;
 }
 
 .vc_gem_divider {

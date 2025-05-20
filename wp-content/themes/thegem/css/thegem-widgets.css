@@ -30,7 +30,7 @@
 	float: left;
 }
 .widget  .gem-teams-image .gem-dummy {
-	background-image:url("/wp-content/themes/thegem/images/default-avatar.png") ;
+	background-image:url("https://bitfari.org/wp-content/themes/thegem/images/default-avatar.png") ;
 	background-size: 100%;
 }
 .widget  .gem-teams-image .gem-dummy:after {

@@ -12,11 +12,11 @@ Text Domain: thegem
 
 @font-face {
 	font-family: 'thegem-icons';
-	src:url('/wp-content/themes/thegem/fonts/thegem-icons.eot');
-	src:url('/wp-content/themes/thegem/fonts/thegem-icons.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/themes/thegem/fonts/thegem-icons.woff') format('woff'),
-		url('/wp-content/themes/thegem/fonts/thegem-icons.ttf') format('truetype'),
-		url('/wp-content/themes/thegem/fonts/thegem-icons.svg#thegem-icons') format('svg');
+	src:url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-icons.eot');
+	src:url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-icons.eot#iefix') format('embedded-opentype'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-icons.woff') format('woff'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-icons.ttf') format('truetype'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-icons.svg#thegem-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
@@ -24,11 +24,11 @@ Text Domain: thegem
 
 @font-face {
 	font-family: 'thegem-socials';
-	src:url('/wp-content/themes/thegem/fonts/thegem-socials.eot');
-	src:url('/wp-content/themes/thegem/fonts/thegem-socials.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/themes/thegem/fonts/thegem-socials.woff') format('woff'),
-		url('/wp-content/themes/thegem/fonts/thegem-socials.ttf') format('truetype'),
-		url('/wp-content/themes/thegem/fonts/thegem-socials.svg#thegem-socials') format('svg');
+	src:url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-socials.eot');
+	src:url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-socials.eot#iefix') format('embedded-opentype'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-socials.woff') format('woff'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-socials.ttf') format('truetype'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/thegem-socials.svg#thegem-socials') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
@@ -177,7 +177,7 @@ h6 .light,
 
 .grayscale,
 .grayscale-image img {
-	filter: url('/wp-content/themes/thegem/css/grayscale.svg#greyscale');
+	filter: url('https://bitfari.org/wp-content/themes/thegem/css/grayscale.svg#greyscale');
 	-webkit-filter: grayscale(100%);
 	-moz-filter: grayscale(100%);
 	-ms-filter: grayscale(100%);
@@ -2157,7 +2157,7 @@ a .socials-item-icon {
 	position: absolute;
 	height: 90px;
 	width: 90px;
-	background: #ffffff url('/wp-content/themes/thegem/images/preloader-1.gif') no-repeat 50% 50%;
+	background: #ffffff url('https://bitfari.org/wp-content/themes/thegem/images/preloader-1.gif') no-repeat 50% 50%;
 	top: 50%;
 	left: 50%;
 	margin-top: -45px;
@@ -3082,7 +3082,7 @@ body.single-thegem_templates.template-type-portfolio:not(.compose-mode) .block-c
 	overflow: hidden;
 }
 .gem-gmaps.gem-wrapbox-style-11 .gem-gmaps-hide {
-	-webkit-mask-image: url('/wp-content/themes/thegem/css/circle.svg');
+	-webkit-mask-image: url('https://bitfari.org/wp-content/themes/thegem/css/circle.svg');
 }
 
 .wpb_gmaps_widget .wpb_map_wraper.hide_title  iframe {
@@ -4999,12 +4999,12 @@ body .fancybox-title-over-wrap {
 .gem-divider-style-6 {
 	border-top: 0;
 	height: 10px;
-	background: url('/wp-content/themes/thegem/images/divider-zigzag.png') repeat-x 50% 0;
+	background: url('https://bitfari.org/wp-content/themes/thegem/images/divider-zigzag.png') repeat-x 50% 0;
 }
 .gem-divider-style-7 {
 	border-top: 0;
 	height: 8px;
-	background: url('/wp-content/themes/thegem/images/divider-wave.png') repeat-x 50% 0;
+	background: url('https://bitfari.org/wp-content/themes/thegem/images/divider-wave.png') repeat-x 50% 0;
 }
 
 /* Dropcap */
@@ -5576,7 +5576,7 @@ body .fancybox-title-over-wrap {
 	margin-bottom: 1.421em;
 }
 .gem-map-with-text.rounded-corners {
-	-webkit-mask-image: url('/wp-content/themes/thegem/css/rounded.svg');
+	-webkit-mask-image: url('https://bitfari.org/wp-content/themes/thegem/css/rounded.svg');
 }
 .gem-map-with-text-content {
 	position: absolute;
@@ -7084,7 +7084,7 @@ form.submitting .wpcf7-spinner {
 	-moz-animation: scrollmove 1s infinite ease;
 	animation: scrollmove 1s infinite ease;
 	width: 1.5vw;
-	background-image: url("/wp-content/themes/images/mouse_icon.png");
+	background-image: url("https://bitfari.org/wp-content/themes/images/mouse_icon.png");
 	display: block;
 	font-size: 0;
 	height: 43px;

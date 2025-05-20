@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'ElegantIcons';
-	src:url('/wp-content/themes/thegem/fonts/elegant/ElegantIcons.eot');
-	src:url('/wp-content/themes/thegem/fonts/elegant/ElegantIcons.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/themes/thegem/fonts/elegant/ElegantIcons.woff') format('woff'),
-		url('/wp-content/themes/thegem/fonts/elegant/ElegantIcons.ttf') format('truetype'),
-		url('/wp-content/themes/thegem/fonts/elegant/ElegantIcons.svg#ElegantIcons') format('svg');
+	src:url('https://bitfari.org/wp-content/themes/thegem/fonts/elegant/ElegantIcons.eot');
+	src:url('https://bitfari.org/wp-content/themes/thegem/fonts/elegant/ElegantIcons.eot#iefix') format('embedded-opentype'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/elegant/ElegantIcons.woff') format('woff'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/elegant/ElegantIcons.ttf') format('truetype'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/elegant/ElegantIcons.svg#ElegantIcons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

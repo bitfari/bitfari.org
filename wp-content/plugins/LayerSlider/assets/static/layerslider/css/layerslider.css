@@ -501,12 +501,12 @@
 	}
 
 	.ls-icon-muted {
-		background-image: url(/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-muted-white.png);
+		background-image: url(https://bitfari.org/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-muted-white.png);
 		opacity: 1;
 	}
 
 	.ls-icon-unmuted {
-		background-image: url(/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-unmuted-white.png);
+		background-image: url(https://bitfari.org/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-unmuted-white.png);
 		opacity: 0;
 	}
 

@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'MaterialDesignIcons';
-	src:url('/wp-content/themes/thegem/fonts/material/materialdesignicons.eot');
-	src:url('/wp-content/themes/thegem/fonts/material/materialdesignicons.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/themes/thegem/fonts/material/materialdesignicons.woff') format('woff'),
-		url('/wp-content/themes/thegem/fonts/material/materialdesignicons.ttf') format('truetype'),
-		url('/wp-content/themes/thegem/fonts/material/materialdesignicons.svg#MaterialDesignIcons') format('svg');
+	src:url('https://bitfari.org/wp-content/themes/thegem/fonts/material/materialdesignicons.eot');
+	src:url('https://bitfari.org/wp-content/themes/thegem/fonts/material/materialdesignicons.eot#iefix') format('embedded-opentype'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/material/materialdesignicons.woff') format('woff'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/material/materialdesignicons.ttf') format('truetype'),
+		url('https://bitfari.org/wp-content/themes/thegem/fonts/material/materialdesignicons.svg#MaterialDesignIcons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
